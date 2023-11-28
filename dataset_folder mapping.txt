@@ -1,0 +1,35 @@
+|--MoNuSegTrainData/
+|	|-- _MACOSX/
+|	|	|--MoNuSeg 2018 Training Data/
+|	|	|	|--Annotations/
+|	|	|	|	|--._TCGA-18-5592-01Z-00-DX1.xml
+|	|	|	|	|--._TCGA-21-5784-01Z-00-DX1.xml
+|	|	|	|	|--...
+|	|	|	|--Tissue Lmages/
+|	|	|	|	|--._TCGA-18-5592-01Z-00-DX1.tif
+|	|	|	|	|--._TCGA-21-5784-01Z-00-DX1.tif
+|	|	|	|	|--...
+|	|	|	|--._.DS_Store
+|	|	|	|--._Annotations
+|	|	|	|--._Tissue Images
+|	|-- MoNuSeg 2018 Training Data/
+|	|	|--Annotations/
+|	|	|	|--._TCGA-18-5592-01Z-00-DX1.xml
+|	|	|	|--._TCGA-21-5784-01Z-00-DX1.xml
+|	|	|	|--...
+|	|	|--Tissue Lmages/
+|	|	|	|--._TCGA-18-5592-01Z-00-DX1.tif
+|	|	|	|--._TCGA-21-5784-01Z-00-DX1.tif
+|	|	|	|--...
+|	|	|--.DS_Store
+|--MoNuSegTestData/
+|	|--Annotations/
+|	|	|--._TCGA-18-5592-01Z-00-DX1.xml
+|	|	|--._TCGA-21-5784-01Z-00-DX1.xml
+|	|	|--...
+|	|--Tissue Lmages/
+|	|	|--._TCGA-18-5592-01Z-00-DX1.tif
+|	|	|--._TCGA-21-5784-01Z-00-DX1.tif
+|	|	|--...
+|--SupplementaryInfo_Complete_11Oct2019.pdf
+|--yon_test.ipynb
